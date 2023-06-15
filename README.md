@@ -1,1 +1,1 @@
-> A landing page for my woodworking company.
+> A personal landing page
